@@ -9,8 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>plugincore</module>
-        <module>pluginmain</module>
+        <module>plugin-core</module>
+        <module>plugin-main</module>
+        <module>plugin-view</module>
     </modules>
 
     <repositories>
